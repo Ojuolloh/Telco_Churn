@@ -1,4 +1,4 @@
-Customer Churn Prediction in A Telecommunications Company
+**Customer Churn Prediction in A Telecommunications Company**
 This repository contains a machine learning project focused on predicting customer churn in the telecommunications industry. Customer churn refers to the phenomenon where customers discontinue using a company's services. Understanding and predicting churn is crucial for telecom companies to retain customers and maintain profitability.
 
 
